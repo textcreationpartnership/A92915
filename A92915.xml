@@ -1,0 +1,256 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sence of Iohn VVarners speech in his personall capacity, spoken by the Lord Mayor of London in his politique capacity: or A declaration delivered from Iohn, and my Lord, utterd from them both, with one mouth, Apr. 25. 1648. Dedicated to the Right Honourable Oliver Crumvvell and the rest of the saints militant. Signed Michell.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92915</idno>
+            <idno type="STC">Wing S2548</idno>
+            <idno type="STC">Thomason E442_22</idno>
+            <idno type="STC">ESTC R9653</idno>
+            <idno type="EEBO-CITATION">99873596</idno>
+            <idno type="PROQUEST">99873596</idno>
+            <idno type="VID">126073</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92915)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 126073)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E442[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sence of Iohn VVarners speech in his personall capacity, spoken by the Lord Mayor of London in his politique capacity: or A declaration delivered from Iohn, and my Lord, utterd from them both, with one mouth, Apr. 25. 1648. Dedicated to the Right Honourable Oliver Crumvvell and the rest of the saints militant. Signed Michell.</title>
+                  <author>Michell, fl. 1648.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeare, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire on a speech delivered by Sir John Warner, Lord Mayor of London.</note>
+                  <note>Annotation on Thomason copy: "May. 16".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Warner, John, --  Sir, d. 1648 --  Humor --  Early works to 1800.</term>
+               <term>Political satire, English --  17th century.</term>
+               <term>London (England) --  Politics and government --  17th century --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:126073:1" rendition="simple:additions"/>
+            <p>The Sence of IOHN WARNERS SPEECH In his Perſonall Capacity, ſpoken by the Lord Mayor OF LONDON</p>
+            <p>In his Politique Capacity: OR A Declaration delivered from <hi>Iohn,</hi> and my Lord, utterd from them both, with one Mouth, <hi>Apr.</hi> 25. 1648.</p>
+            <p>Dedicated to the Right Honourable OLIVER CRVMWELL And the reſt of the Saints MILITANT.</p>
+            <p>Signed <hi>Michell.</hi>
+            </p>
+            <p>LONDON, Printed in the yeare, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:126073:2"/>
+            <pb n="3" facs="tcp:126073:2"/>
+            <head>The ſence of <hi>JOHN WARNERS</hi> Speech.</head>
+            <p>
+               <hi>FOraſmuch as it is Conceived, and Apprehended, by the Common Counſell, that this Citty (at preſent) it in great danger.</hi>
+            </p>
+            <p>
+               <hi>Conceived</hi> &amp;c: A meere conceit indeed; for where (I pray) lay the danger, under Ground, or above Ground, in the Ayre, or above, or under water; was the Thames to be blowne up the ſecond time, or was there any feare of Caſtles in the Ayre, or another dangerous powder Plot, with an &amp;c. Therefore give me leave to ex<g ref="char:EOLhyphen"/>poſtulate in the language of <hi>Thomas Sternhold, Pſal.</hi> 2.</p>
+            <q>
+               <l>Why did the City, Tumults raiſe,</l>
+               <l>What Rage was in their Braine?</l>
+            </q>
+            <p>For mine own part, I know my ſelf to be as very a knave and Coward, as any man living (except the Lord of <hi>Olds<g ref="char:EOLhyphen"/>worth)</hi> yet I was no more afraid with any danger or dammage now from the Army, then of a Capon and white broath at a Thanksgiving dinner, Then why ſhall ſuch a one as I feare? And therefore I declare now, they were the Feares, and Iealouſies of the Common Cuckolds [coun<g ref="char:EOLunhyphen"/>ſell I would ſay) and not mine owne, the text is cleare in the point.</p>
+            <p>
+               <hi>Conceived and Apprehended by the Common-Councell.</hi>
+            </p>
+            <p>
+               <hi>Apprehended;</hi> in Good time Verily; Are the Common-Councel men all turn Conſtables; or what do they <hi>Appre<g ref="char:EOLhyphen"/>hend</hi> or catch at their owne ſhadowes (that is themſelves) to my knowledge (which I know and all men know is very ſlender) there was no more ground of feare now then was
+<pb n="4" facs="tcp:126073:3"/>in 88. or November 5th. 1605. Out upon't; In my con<g ref="char:EOLhyphen"/>ſcience (which is as little as my Science) <hi>Sir Walter Earle,</hi> or <hi>Harry Pelham</hi> the Negro Mock ſpeaker) has bit theſe Common Coxcombs, and they are (now almoſt two Moneths before Midſomer) Ready to run mad with <hi>Fears, and Jealouſies.</hi>
+            </p>
+            <p>
+               <hi>Theſe are therefore according to the deſire and direction <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the ſaid Court, to Will and require you in his Maieſtie Name.</hi>
+            </p>
+            <p>Mark (Beloved) that <hi>therefore</hi> the meaning of it is this, Becauſe theſe Wiſe-acres of the Councell feare, where no fear is, or was, therefore [forſooth] I muſt be ſuch an aſſe as to <hi>declare</hi> I know not what <hi>Jmaginary danger.</hi> You ſe [dear S<hi rend="sup">•s</hi>] it is not my deſire or direction, but the deſire &amp; direction of the Court, for my part I love not this <hi>directory,</hi> though I was compeld to obay it. But if ever they catch me doing a<g ref="char:EOLhyphen"/>ny good to this City (eſpecialy this Blew-bonnet-Scotifi<g ref="char:EOLhyphen"/>ed Councell) I'le give 'em leave to <hi>Prinne</hi> myne eares or hang me as they did one of my Predeſeſſors, <hi>Nick. Brem<g ref="char:EOLhyphen"/>ber</hi> was in 11th. yeare of King <hi>Richard</hi> the ſeconds Raigne, <hi>Anno,</hi> (or <hi>Anna</hi>) 1388. He was a ſtirring ſtickling fel<g ref="char:EOLhyphen"/>low, and had he not been hang'd he had been created Duke of <hi>Troy,</hi> or of <hi>London</hi> by the name of <hi>Troy:</hi> He had beene divers times made Lord Major, Which I purpoſe not to be, He lov'd his King dearely and Loyally (which I yet never did) for his royalty he was hang'd, and his throat cut after wards, but follow his example he that liſt, if you will know more of him, Read <hi>Stowes</hi> Chronicle, page 303. I confeſſe he was an honeſter man then my ſelfe.</p>
+            <p>Thus you ſee that I who have beene al my life, a Uolun<g ref="char:EOLhyphen"/>tarie Hypocrite, am now compeld to be one; And you know that Neceſſity hath no more Law then I have Loy<g ref="char:EOLhyphen"/>alty; And therefore had not the Counſel <hi>deſired and di<g ref="char:EOLhyphen"/>rected too,</hi> I (of my ſelfe) would never have uſed his Ma<g ref="char:EOLhyphen"/>jeſties name in the buſineſſe, I would ſooner have decla<g ref="char:EOLhyphen"/>red in the Devills name, as in whom I have more intereſt, and you too.</p>
+            <p>
+               <pb n="5" facs="tcp:126073:3"/>
+               <hi>In his Maieſties Name,</hi> &amp;c. And here my Brethren (the Saints I meane and not the Aldermen) I muſt diſtinguiſh my ſelfe (as the Parliament did the King) into two capa<g ref="char:EOLhyphen"/>cities, (viz.) into my Politicall and Perſonall. That is the Lord Major, by which Office of Majeſtracie, I am of a capable capacitie and underſtanding to be a polititian; But in my perſonall Capacitie, I am plaine JOHN VVAR<g ref="char:EOLhyphen"/>NER, and (in that ſence) ſo I am out of my polliticall ca<g ref="char:EOLhyphen"/>pacitie, and conſequentlie no polititian.</p>
+            <p>I could inſtance this Argument further, by demonſtra<g ref="char:EOLhyphen"/>tions out of the Records and Annalls of <hi>Quinbourough,</hi> where the Major ſpake wiſely as followeth.</p>
+            <p>
+               <hi>Beloved, J am by my place the Kings Iamag<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Therefore for a man to ſay more then a Man can ſay, I hold it not fit to be ſpoken: But for a Man to ſay what a Man ought to ſay, there I leave you my Brethren.</hi> Or as the Learnned Poeti<g ref="char:EOLhyphen"/>cal VVater-Poet ſaid in his Laborious Hiſtory of Non<g ref="char:EOLhyphen"/>ſence.</p>
+            <q>
+               <l>More might be ſaid, but then more muſt be ſpoake.</l>
+               <l>The Weights fell downe, becauſe the Iack-line broake.</l>
+            </q>
+            <p>But, to proceed Breathren, Aſſe I am <hi>Iohn Warner</hi> I love my ſelfe and you, But Aſſe a Magiſtrate I even ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e my ſelfe perfectly; Except in order to your ends, or deſignes (the plunder and Ruine of the City) And thoſe I am ſure I have promoted with as much Art and Induſtry as my zeale and Braines could attaine to; And my two <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>(Atkins and Pennington)</hi> and my ſelfe, who have made as perfect a <hi>Triumvirate,</hi> or Iunto (hard words theſe are) of <hi>Catalines</hi> and Traytor to this City of <hi>London</hi> as over were in <hi>Rome,</hi> or Hell, I tel you, you doe hate magiſtrates, and as I being <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o, I hate my ſelf, if it <hi>be truly and hig<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly principled;</hi> for (Deare Breathren Saints) Is not <hi>S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ilo</hi> come, Then muſt Septers come &amp; Crowns departe, the Inference is as cleare as my Conſcience. Hath not CHRIST made us free, why then ſhould we be ſlaves, or Subjects to any King or Par<g ref="char:EOLhyphen"/>liament (for they would all be Kings too) in <hi>Kent</hi> or <hi>Chri<g ref="char:EOLhyphen"/>ſtendome.</hi>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:126073:4"/>Follow then the Thruſt (Victorious Soules) diſpatch <hi>Charles Stewart,</hi> then downe goes monarchy: and then ſtreight way thoſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>igg-widgeon Traytorly <hi>Don-qu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>k<g ref="char:EOLhyphen"/>ſotts</hi> of <hi>Weſtminſter,</hi> (moſt of them as meane and mecha<g ref="char:EOLhyphen"/>nick as our ſelves) will tumble after, and vaniſh like their owne Ordinances or a morning Cloud.</p>
+            <p>Heye then up goe wee.</p>
+            <p>
+               <hi>In his Maieſties Name, &amp;c</hi> iuſt as our fellow Hippocrites in the Ghoſpell made uſe of the Name of <hi>Chriſt</hi> the King of Kings; Math. 7.22. <hi>Have we not prophecied in thy Name,</hi> (yes we have propheſied to ſome purpoſe, for all the peo<g ref="char:EOLhyphen"/>ple of God are Prophets, <hi>and in thy name caſt out Devills,</hi> No wee have brought Devills in) <hi>and in thy name done ma<g ref="char:EOLhyphen"/>ny wonderfull Workes.</hi> Yes as the wonder working Parlia<g ref="char:EOLhyphen"/>ment did in <hi>Richard</hi> the 2. time, Anno 1388. [that Parli<g ref="char:EOLhyphen"/>ament did Raiſe and ruine whom they liſted, and beheaded, hang'd, Impriſon'd, fined, Baniſh'd and beggerd whomſo<g ref="char:EOLhyphen"/>ever they pleaſed, So that as we have done the worke wee may expect their Reward in the text, we look to have the ſame <hi>Mittimus, Depart from mee yee workers of ini<g ref="char:EOLhyphen"/>quity.</hi>
+            </p>
+            <p>But to work iniquity by pattern, is but to ſinne by Autho<g ref="char:EOLunhyphen"/>rity: for has not this bleſſed Parliament uſed the Kings name more then 7. yeares to his and his freinds Ruine, It is probable that they committed him to cloſe priſon in his owne Name, (as theſe) <hi>Charles King of England, we charge thee in thy perſonal capacity that [in obedience to the authority of thy Politique Capacity] thou ſubmit thy ſelf to be deprived of all the comforts of this life, [viz:] as Wife, Children, freinds ſervants, Eſtate, Dignity, Goods, poſſeſſions and Libertie.</hi> I tell you (my Brethren that this deep State-logick, newly practiſed, newly printed, and newly come forth, Are not all writs Iſſued as formerly, and all Briefes paſſed under the name of <hi>Charles by the Grace of God</hi> &amp;c. down to this very yeare 1648. And ſubſcribed <hi>Given from our Pal<g ref="char:EOLhyphen"/>lace at Weſtminſter,</hi> ſuch and ſuch a day, and in ſuch a yeare
+<pb n="7" facs="tcp:126073:4"/>of our Reigne &amp;c. when as poor King <hi>Charles</hi> (Good man) God knowes hath not ſeen <hi>Weſtminſter</hi> or <hi>White-Hall,</hi> ſince February 1641. except at a diſtance from <hi>Brainford</hi> or <hi>Hampton Court,</hi> &amp;c.</p>
+            <p>The old ſaying was that all miſchiefe begun in <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ni</hi> or <hi>Anni Domino</hi> (for we that have the Guift of Tongues may ſpeake the Language of the Beaſt) But all the Plagues of <hi>Agypt</hi> began <hi>Annu Domino Regis.</hi> No Subject now is ſo<g ref="char:EOLhyphen"/>lemnly undon, but in his Soveraigne Lord and Maſters name, the King, Nor was any honeſt Man, or truly Loyall Royaliſt hangd or beheaded ſince theſe merry mad times, but they have all ſuffered in the Kings name, though for the kings Cauſe or ſake.</p>
+            <q>
+               <l>Thus Traytor <hi>B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rley</hi> late did ſeele</l>
+               <l>The Razor edge of <hi>Wild</hi> and <hi>Steele.</hi>
+               </l>
+            </q>
+            <p>And ſo (Deare Brethren) I have done with the King; though you will do as you have don, and never have done with him till he be undone.</p>
+            <p>
+               <hi>Theſe are therefore to will and require you &amp;c. that preſent<g ref="char:EOLhyphen"/>ly upon fight hereof, you <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> do repaire to every Houſhol<g ref="char:EOLhyphen"/>der &amp;c. and give them ſtrict Charge and Command at their Pex<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, That they do ſo Order and diſpoſe of their Servants, &amp;c: That they be not only kept from Committing any entrage or Miſdemeanor, But that they, and their Servants &amp;c, be in Readines [According to their ſeverall Capacities] with arms weapons, and Ammunition for the preſervation of the Peace, Defence of themſelves, the City and the Magiſthates thereof, &amp;c.</hi>
+            </p>
+            <p>O rare Magiſtrates, O brave Lord Mayor. I am ſure nei<g ref="char:EOLhyphen"/>ther God or the King made me a Lord, and none but fooles and knaves made me mayor, and the troth is, that I my ſelfe do know my ſelfe to be to better then a paper, or (at the beſt) a Paſt<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ord Pageant: and my horſe is but a Hobby-Horſe. And yet <hi>I,</hi> even I, <hi>J perce J, John,</hi> though not <hi>John a Leiden</hi> [or leaden Iohn] but <hi>John</hi> of <hi>London,</hi> I my ſelfe
+<pb n="8" facs="tcp:126073:5"/>[forſooth do <hi>Will and require</hi> &amp;c. and what think you veri<g ref="char:EOLhyphen"/>ly of my Command that all the Citizens [upon occaſion] ſhall with their Servants, keep their houſes till their throats be cut, in their owne defence, that you King <hi>Oliver</hi> (the Chieftaine of the Lord) might kill them in ſeverall<g ref="char:punc">▪</g> And gleane them one by one at your pleaſure, which (were they in ful Bodies, and in a poſture of defence) I without the hazzard of thoſe <hi>pretious Saints</hi> of <hi>Whitehall<g ref="char:punc">▪</g>
+               </hi> and the <hi>Mewes,</hi> the one <hi>Ambulent,</hi> the other <hi>Equitant,</hi> (Both <hi>Mil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tant</hi>) And yet I further declare, for faſhion ſake; that,</p>
+            <p>
+               <hi>The Trayned Bands of this City, do from time to time, upon the Beat of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, Repaire with all ſpeed to their Colours<g ref="char:punc">▪</g> &amp;c: and for the ſafety and wellfare of this City.</hi>
+            </p>
+            <p>
+               <hi>To their Collours, &amp;c.</hi> Namely that the Citizens may be murdred in their Armes and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>artial Equipage, as once the old Roman Aldermen were (in Pontificalibus when the Gaules ſtorm'd the City.</p>
+            <p>This be confident of Brethren [for you <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> confide in mee] That the leiutenant General [for the General him<g ref="char:EOLhyphen"/>ſelfe is not wiſe enough to be truſted with a ſecret] Brother <hi>Atkins,</hi> Brother, <hi>Pennington,</hi> and my ſelfe [with <hi>Foulk<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> our Auxilliarie, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> laid a moſt exact Model of the Cities plunder firſt, and then Deſtruction, or [which is worſe] Captivity and perpetuall ſlaverie, And then would the Cittizens have been forc'd to <hi>Hang out their new Lights.</hi> All had been <hi>Goſhen</hi> then, which now (if either the Prote<g ref="char:EOLhyphen"/>ſtant or <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>resbyterian partie prevaile, and we miſcarry; (as 'tis to be feared we ſhall] will continue <hi>Aegypt</hi> ſtil, and for want of our Light [though we be hang'd out] <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in dark<g ref="char:EOLhyphen"/>neſſe, and in the ſhaddow of death.</p>
+            <p>So much for the Text; Now two ſhort words of Ap<g ref="char:EOLhyphen"/>plication, and I have <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; The words are theſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> which I leave to your conſiderations <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o Conſter land In<g ref="char:EOLhyphen"/>terpret.</p>
+            <trailer>Fini<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ni<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
